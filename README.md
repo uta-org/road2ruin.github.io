@@ -1,3 +1,5 @@
-# road2ruin.github.io
+# Road2Ruin: A powerful Earth-like world modpack with lots of features.
 
-The Road2Ruin website.
+On this repository, you will find the source code of this website and also, the releases for the client.
+
+## How to install
