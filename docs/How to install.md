@@ -1,6 +1,6 @@
 # Howto
 
-- Go to Releases and download the latest version.
+- Go to [Releases](https://github.com/uta-org/road2ruin.github.io/releases) and download the latest version.
 
 - Unzip the contents of this zip.
 
