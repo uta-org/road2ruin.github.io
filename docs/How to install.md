@@ -6,7 +6,7 @@
 
 - Once downloaded, download [MultiMC](https://multimc.org/#Download).
 
-- Open MultiMc and create an instance.
+- Open MultiMC and create an instance.
 
 ![...](screenshots/01.PNG)
 
