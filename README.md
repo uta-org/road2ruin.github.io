@@ -1,7 +1,5 @@
 # Road2Ruin: A powerful Earth-like world modpack with lots of features. [![HitCount](http://hits.dwyl.com/uta-org/road2ruingithubio.svg)](http://hits.dwyl.com/uta-org/road2ruingithubio)
 
-<br>
-
 <div align="center">
 
 <img src="http://road2ruin.xyz/logo/logo_512.png" width="320" height="320">
@@ -15,8 +13,6 @@
 <b>Website: </b> <a href="http://road2ruin.xyz">road2ruin.xyz</a>
 
 </div>
-
-<br>
 
 ## Repository
 
