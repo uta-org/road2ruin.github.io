@@ -4,7 +4,7 @@
 
 <img src="http://road2ruin.xyz/logo/logo_512.png" />
 
-<br>
+<br><br>
 
 <a href="https://discord.gg/ju2qDtM" target="_blank"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a>
 
