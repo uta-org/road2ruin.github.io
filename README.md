@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="http://road2ruin.xyz/logo/logo_512.png" width="320" height="320">
+<img src="http://road2ruin.xyz/logo/logo_512.png"">
 
 <br>
 
