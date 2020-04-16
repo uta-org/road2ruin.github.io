@@ -8,50 +8,50 @@
 
 - Open MultiMC and create an instance.
 
-![...](screenshots/01.PNG)
+![...](../screenshots/01.PNG)
 
 - Select "1.12.2" and name it.
 
-![...](screenshots/03.png)
+![...](../screenshots/03.png)
 
 - Then, press "Change instance":
 
-![...](screenshots/04.png)
+![...](../screenshots/04.png)
 
 - Press "Install Forge":
 
-![...](screenshots/05.png)
+![...](../screenshots/05.png)
 
 - Search the "14.23.5.2847" version.
 
-![...](screenshots/06.png)
+![...](../screenshots/06.png)
 
 - Check that everything got installed correctly:
 
-![...](screenshots/07.png)
+![...](../screenshots/07.png)
 
 - Then, go to the "Loader mods" tab and press the "Add" button:
 
-![...](screenshots/08.png)
+![...](../screenshots/08.png)
 
 - Go to the unzipped folder (from the releases you downloaded before), and select all the jar files:
 
-![...](screenshots/09.png)
+![...](../screenshots/09.png)
 
 - Check that the mods has been added correctly:
 
-![...](screenshots/10.png)
+![...](../screenshots/10.png)
 
 - Then, go to the "Settings" tab, and set the memory, we recommend at least 4GB of RAM:
 
-![...](screenshots/11.png)
+![...](../screenshots/11.png)
 
 - Press the "Open .minecraft" button:
 
-![...](screenshots/12.png)
+![...](../screenshots/12.png)
 
 - And drop the "config" folder into the ".minecraft" folder:
 
-![...](screenshots/13.PNG)
+![...](../screenshots/13.PNG)
 
 And that's all!
